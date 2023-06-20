@@ -1,0 +1,30 @@
+.flag {
+    position: relative;
+    background: rgb(237, 28, 36);
+    height: 600px;
+    width: 900px;
+}
+
+.flag > .white-bar-1 {
+    position: absolute;
+    background: white;
+    top: 100px;
+    height: 100px;
+    width: 900px;
+}
+
+.flag > .blue-bar {
+    position: absolute;
+    top: 200px;
+    background: rgb(36, 29, 79);
+    height: 200px;
+    width: 900px;
+}
+
+.flag > .white-bar-2 {
+    position: absolute;
+    top: 400px;
+    background: white;
+    height: 100px;
+    width: 900px;
+}
